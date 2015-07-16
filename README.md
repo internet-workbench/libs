@@ -7,8 +7,4 @@ We are using a maven like structure for flexibility. All javascript libraries ha
 
 The path to the library is groupId/artifactId/version/artifactId-version.js
 
-For example, if we assign groupId com.jquery.lib to jquery, and are using version 1.1.3, the path will be:
-
-com.jquery.lib/jquery/1.1.3/jquery-1.1.3.js
-
 This will also accomodate other files types, such as templates and css.
