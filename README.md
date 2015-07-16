@@ -8,3 +8,5 @@ We are using a maven like structure for flexibility. All javascript libraries ha
 The path to the library is groupId/artifactId/version/artifactId-version.js
 
 This will also accomodate other files types, such as templates and css.
+
+See the preLoaded.md file to see which js libraries are already loaded.
