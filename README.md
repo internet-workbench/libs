@@ -1,5 +1,5 @@
 # libs
-This repo contains the approved javascript libraries for the Internet Workbench. The Internet Workbench uses requirejs to load external libraries, so the library must conform to that standard.
+This repo contains the approved javascript libraries for the Internet Workbench. The Internet Workbench uses requirejs to load external libraries, so anything here conforms to that standard.
 
 If you would like a library included, please send a pull request.
 
